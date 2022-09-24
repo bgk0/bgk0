@@ -1,13 +1,24 @@
-Name: 
-  Bret 
-Experience: 
-  SQL, C# 10+ years
-  Python ~2 years
-Current Role:
-  Enterprise Level eDiscovery Software Developer / Workflow Automation
- Repo Purpose:
-  My current role has me working in SQL and C# a lot so this will primarily be a Python playground while I expand my skillset in the langauge.
- 
+<dl>
+  <dt>Name</dt>
+  <dd>
+    Bret K.
+  </dd>
+  <dt>Experience</dt>
+  <dd>
+     SQL, C# 10+ years <br>
+     Python ~2 years
+  </dd>
+  <dt>Current Role</dt>
+  <dd>
+     Enterprise Level eDiscovery Software Developer / Workflow Automation 
+  </dd>
+  <dt>Repo Purpose</dt>
+  <dd>
+     This will primarily be a Python playground while I expand my skillset in the langauge. Almost all of my SQL/C# is written for my current employer and contain trade secrets of the industry so I am unable to share them here but I may upload a few personal items for those languages at a different time. 
+  </dd>
+  
+  
+</dl>
 
 <!---
 bgk0/bgk0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
