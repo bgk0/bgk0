@@ -6,7 +6,7 @@
   <dt>Experience</dt>
   <dd>
      SQL, C# 10+ years <br>
-     Python ~2 years
+     Python ~5 years
   </dd>
   <dt>Current Role</dt>
   <dd>
