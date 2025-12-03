@@ -1,8 +1,4 @@
 <dl>
-  <dt>Name</dt>
-  <dd>
-    Bret K.
-  </dd>
   <dt>Experience</dt>
   <dd>
      SQL, C# 10+ years <br>
